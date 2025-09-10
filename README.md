@@ -40,7 +40,7 @@
 * [Mordheim: City of the Damned](https://store.steampowered.com/app/276810/Mordheim_City_of_the_Damned/)
 * [Nippon Marathon](https://store.steampowered.com/app/746940/Nippon_Marathon/)
 * [Northmark: Hour of the Wolf](https://store.steampowered.com/app/307010/Northmark_Hour_of_the_Wolf/)
-* [Pathfinder: Wrath of the Righteous Enhanced Edition](https://store.steampowered.com/app/1184370/Pathfinder_Wrath_of_the_Righteous__Enhanced_Edition/)
+* ~~[Pathfinder: Wrath of the Righteous Enhanced Edition](https://store.steampowered.com/app/1184370/Pathfinder_Wrath_of_the_Righteous__Enhanced_Edition/)~~
 * [Pets Hotel](https://store.steampowered.com/app/1714250/Pets_Hotel/)
 * [Pharaonic](https://store.steampowered.com/app/386080/Pharaonic/)
 * [Plebby Quest: The Crusades](https://store.steampowered.com/app/334310/Plebby_Quest_The_Crusades/)
